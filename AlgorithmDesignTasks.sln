@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP", "TSP\TSP.csproj", "{FA32C356-F464-443B-8AA2-5DF6EC5D08D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{3313C77F-DCAB-4B0A-A46D-B543FAF404F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FA32C356-F464-443B-8AA2-5DF6EC5D08D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA32C356-F464-443B-8AA2-5DF6EC5D08D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA32C356-F464-443B-8AA2-5DF6EC5D08D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3313C77F-DCAB-4B0A-A46D-B543FAF404F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3313C77F-DCAB-4B0A-A46D-B543FAF404F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3313C77F-DCAB-4B0A-A46D-B543FAF404F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3313C77F-DCAB-4B0A-A46D-B543FAF404F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
